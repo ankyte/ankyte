@@ -1,7 +1,7 @@
 
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Kumar Sahu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px">, I'm Ankit Kumar Sahu</h1>
 
 
 <p align="center">
