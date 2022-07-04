@@ -1,7 +1,7 @@
 
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px">, I'm Ankit Kumar Sahu</h1>
+<h1 align="center">Hi, I'm Ankit Kumar Sahu</h1>
 
 
 <p align="center">
@@ -15,12 +15,12 @@
 <hr>
 
 ### 🤵 About Me:
-- 🔭 I’m currently working on machine learning projects
+- 🔭 I’m currently working on ml, dl projects (now-a-days, mostly nlp stuff)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning about blockchain, web3.0
 - 📝 I sometimes write articles on 
       [<img align="center" alt="dev" height="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />](https://dev.to/ankitsahu)
-- ⚡ Fun fact: I can't stop distro hopping
+<!-- - ⚡ Fun fact: I can't stop distro hopping -->
 
 <hr>
 
