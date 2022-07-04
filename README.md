@@ -1,12 +1,12 @@
 
 
 <hr>
-<h1 align="center">Hi, I'm Ankit Kumar Sahu</h1>
+<h1 align="center">Hi, I'm Ankit Sahu</h1>
 
 
 <p align="center">
   <em>
-    I am B.Tech. degree in CSE from <a href="https://chennai.vit.ac.in"> <b>Vellore Institute of Technology, Chennai</b></a>.<br>
+    I am pursuing B.Tech. degree in CSE from <a href="https://chennai.vit.ac.in"> <b>Vellore Institute of Technology, Chennai</b></a>.<br>
     I love to learn about new technologies. <br>
   </em> 
 </p>
