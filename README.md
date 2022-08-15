@@ -10,8 +10,6 @@
     I love to learn about new technologies. <br>
   </em> 
 </p>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 <hr>
 
 ### 🤵 About Me:
