@@ -24,7 +24,7 @@
 
 ### 💬 Reach me
 
-[<img align="left" alt="Website" height="25px" src="https://cdn-icons-png.flaticon.com/512/3988/3988027.png" />](https://ankitsahu.me/)
+[<img align="left" alt="Website" height="25px" src="https://cdn-icons-png.flaticon.com/512/3988/3988027.png" />](https://ankitsawho.github.io/)
 [<img align="left" alt="Github" height="25px" src="https://cdn-icons-png.flaticon.com/512/889/889192.png" />](https://github.com/ankitsawho)
 [<img align="left" alt="LinkedIn" height="25px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>](https://www.linkedin.com/in/ankit-kumar-sahu-8817681a4/)
 [<img align="left" alt="Twitter" height="25px" src="https://cdn-icons-png.flaticon.com/512/725/725311.png" />](https://twitter.com/ankitsawho)
