@@ -6,7 +6,6 @@
 
 <p align="center">
   <em>
-    I am pursuing B.Tech. degree in CSE from <a href="https://chennai.vit.ac.in"> <b>Vellore Institute of Technology, Chennai</b></a>.<br>
     I love to learn about new technologies. <br>
   </em> 
 </p>
