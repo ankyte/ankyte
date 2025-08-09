@@ -1,7 +1,7 @@
 
 
 <hr>
-<h1 align="center">Hi, I'm Ankit Sahu</h1>
+<h1 align="center">Hi, I'm Ankit</h1>
 
 
 <p align="center">
